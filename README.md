@@ -39,6 +39,7 @@ Mozesz tez zrobic cos takiego
 - wypunktowanie
 - cos innego
 - jeszcze cos innego
+- dodajesz cos
 
 [link-01]: https://r.honeygain.me/BARTO70E95
 [link-02]: https://p2pr.me/1636824892618ff73c72ad4
